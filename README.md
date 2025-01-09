@@ -1,3 +1,5 @@
+![Amazon_Sales_Dashboard](https://github.com/user-attachments/assets/52f252eb-ce3d-4415-ad80-ad4215035ba0)
+
 # Amazon-Sales-Dashboard
 This repository contains a comprehensive project that combines Python for data analysis and Power BI for data visualization, focusing on Amazon sales data. The project demonstrates how to extract insights from raw sales data and transform it into interactive, visually appealing dashboards.
 
