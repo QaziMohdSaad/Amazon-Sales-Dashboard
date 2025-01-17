@@ -17,7 +17,7 @@ Visualized key metrics.
 Integrated slicers and filters for deeper data exploration.
 
 # Files Included:
-Python scripts for data cleaning and analysis.
+dataset for data cleaning and analysis on Python.
 Power BI file (.pbix) containing the final dashboard.
 Documentation on how to reproduce the analysis and set up the Power BI dashboard.
 
